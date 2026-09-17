@@ -20,9 +20,12 @@
     attackRate: 1
     damage:
       types:
-        Slash: 10
-        Piercing: 10
-        Caustic: 5
+# Corvax-Wega-start 
+        Slash: 35
+      # Slash: 10
+      # Piercing: 10
+      # Caustic: 5
+# Corvax-Wega-end
         Structural: 15
   - type: Item
     size: Normal
